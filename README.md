@@ -1,2 +1,3 @@
 # ContractManagementSystem
 The is a big company that has a need for a system that organize and manage the contracts done between its employees and their clients.  A Contract Management System (CMS) is developed for client. The integrity, security and reliability of the CMS system are ensured by optimizing the design.
+A relational database application system is designed for a "realistic" situation, followed by an implementation of the system running on the DB server MySQL. The application is a two-tier system, a client side as a browser and http server with PHP parser at the server side. The CMS system is expected to support all “representative” queries and transactions, and produce various desired reports.
